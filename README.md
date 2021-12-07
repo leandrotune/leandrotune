@@ -1,4 +1,4 @@
-### olá!, seja muito bem vindo ao meu repositório there 👋
+### olá!, seja muito bem vindo ao meu repositório 👋
 
 <p> 🌎 <samp> Sou Leandro Antunes, 24 anos, estou por dentro das tecnologias frontend há mais de 1 ano.</p> 
 
