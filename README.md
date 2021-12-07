@@ -1,10 +1,10 @@
 ### olá!, seja muito bem vindo ao meu repositório there 👋
 
-<p> <samp> Sou Leandro Antunes, 24 anos, estou por dentro das tecnologias frontend há mais de 1 ano.</p> 
+<p> 🌎 <samp> Sou Leandro Antunes, 24 anos, estou por dentro das tecnologias frontend há mais de 1 ano.</p> 
 
 <p> 🎯 <samp> Atualmente, estudo conceitos avançados de desenvolvimento de aplicações utilizando **React.js**, como **Testes / React Testing Library**, **Next.js**, **SSR/SSG**,  **Styled Components.</p>
 
-<p> <samp> Além tudo disso, Estudo pela Rocketseat, faço parte da dturma do Ignite trilha de reactJS</p>
+<p> <samp> Além tudo disso, Estudo pela [Roketseat](https://rocketseat.com.br/), faço parte da dturma do [Ignite](https://rocketseat.com.br/ignite) trilha de reactJS</p>
 
 <p> <samp> Assim que tenho um tempo gosto de prática minha lógica de Programação.
 
